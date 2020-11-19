@@ -51,8 +51,6 @@ workoutSchema.virtual("totalDuration").get(function() {
     }, 0);
 })
 
-// custom method to update total time
-
 //assign model to a variable and export it
 const Workout = mongoose.model("Workout", workoutSchema);
 module.exports = Workout;
