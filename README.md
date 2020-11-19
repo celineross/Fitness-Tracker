@@ -10,7 +10,11 @@
 ## Description
 <p>This app tracks your workouts, and stores them in MongoDB.</p>
 
-<img src="https://gyazo.com/70cf78da054986aa23f888063eec2cc9" alt="Index page">
+<img src="./images/index.png" alt="Index page" style="width:50%; height:50%">
+<br>
+<img src="./images/tracker.png" alt="Exercise recording page" style="width:50%; height:50%">
+<br>
+<img src="./images/dash.png" alt="Dashboard data" style="width:50%; height:50%">
 
 ## Requirements
 <p>Express, Mongoose, MongoDB, Morgan, Path, Node.</p>
